@@ -1,8 +1,5 @@
 ---
 title: "devops diary"
-date: 2019-12-13
----
-title: devops diary
 author: louis
 theme: minima
 email: your-email@domain.com
@@ -16,3 +13,5 @@ twitter_username: your-twitter-handle
 github_username:  your-github-handle
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+date: 2019-12-13
+---
